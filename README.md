@@ -69,7 +69,7 @@ MChip-Monitor natively integrates with the Sparkle framework. You will seamlessl
 ## 📥 Installation
 
 1. Go to the [Releases page](../../releases) to download the latest version.
-2. Or download the latest archive directly: [**`MChip-Monitor v1.5.4.zip`**](MChip-Monitor%20v1.5.4.zip).
+2. Or download the latest archive directly:
 3. Extract the `.zip` file.
 4. Drag `MChip-Monitor.app` into your **Applications** folder.
 5. Launch the app and follow the setup wizard to grant the requested permissions (Network, Disk access).
