@@ -3,6 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-macOS%2012%2B-lightgrey)
 ![Architecture](https://img.shields.io/badge/Architecture-Apple%20Silicon%20(M1%2FM2%2FM3)-blue)
 ![License](https://img.shields.io/badge/License-Free-green)
+[![Downloads](https://img.shields.io/github/downloads/lovepc605/MChip-Monitor-App/total?style=flat-square&logo=github&color=blue)](https://github.com/lovepc605/MChip-Monitor-App/releases)
 
 MChip-Monitor (Silicon Widgets) is a beautiful, healing, and highly functional **Desktop Pet + System Component Monitor** built exclusively for macOS running on Apple Silicon (arm64). It brings your system stats to life with interactive pets, modular widgets, and a rich, customizable UI.
 
